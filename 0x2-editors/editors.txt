@@ -1,0 +1,13 @@
+
+
+
+
+
+
+7. i to insert text before cursor, a to insert text after cursor 
+8. dd will delete current line
+
+10. u will undo what was just done
+11. :q! will quit Vi without saving changes  
+12. ^ will move cursor to the start of current line
+13. $ will move cursor to end of line
